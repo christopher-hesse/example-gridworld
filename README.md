@@ -2,6 +2,8 @@
 
 A gym reinforcement learning environment using the [`gym3`](https://github.com/openai/gym3) API.  This is a simple gridworld from Pieter Abbeel's [CS287](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/mdps-exact-methods.pdf) to illustrate how to make a simple `gym3` environment.
 
+<img src="https://raw.githubusercontent.com/christopher-hesse/example-gridworld/master/docs/env.gif">
+
 ## Installation
 
 ```
